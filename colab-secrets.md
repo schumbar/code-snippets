@@ -1,2 +1,2 @@
-from google.colab import userdata
-userdata.get('<secretName>')
+from google.colab import userdata   
+userdata.get('<secretName>')   
